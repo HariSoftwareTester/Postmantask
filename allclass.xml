@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test thread-count="5" name="Test">
+		<classes>
+			<class name="com.testingfiles.Postman1" />
+			<class name="com.testingfiles.Postman2" />
+			<class name="com.testingfiles.Postman3" />
+			<class name="com.testingfiles.Postman4" />
+			<class name="com.testingfiles.Postman5" />
+			<class name="com.testingfiles.Postman6" />
+			<class name="com.testingfiles.Postman7" />
+			<class name="com.testingfiles.Postman8" />
+			<class name="com.testingfiles.Postman9" />
+			<class name="com.testingfiles.Postman10" />
+
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

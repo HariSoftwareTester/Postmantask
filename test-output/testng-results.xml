@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-26T10:46:29Z" name="Suite" finished-at="2025-02-26T10:46:39Z" duration-ms="9455">
+    <groups>
+    </groups>
+    <test started-at="2025-02-26T10:46:29Z" name="Test" finished-at="2025-02-26T10:46:39Z" duration-ms="9455">
+      <class name="com.testingfiles.Postman5">
+        <test-method signature="tc5()[pri:0, instance:com.testingfiles.Postman5@710c2b53]" started-at="2025-02-26T10:46:34Z" name="tc5" finished-at="2025-02-26T10:46:34Z" duration-ms="661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc5 -->
+      </class> <!-- com.testingfiles.Postman5 -->
+      <class name="com.testingfiles.Postman4">
+        <test-method signature="tc4()[pri:0, instance:com.testingfiles.Postman4@2767e23c]" started-at="2025-02-26T10:46:33Z" name="tc4" finished-at="2025-02-26T10:46:34Z" duration-ms="574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+      </class> <!-- com.testingfiles.Postman4 -->
+      <class name="com.testingfiles.Postman10">
+        <test-method signature="tc10()[pri:0, instance:com.testingfiles.Postman10@7ce026d3]" started-at="2025-02-26T10:46:38Z" name="tc10" finished-at="2025-02-26T10:46:39Z" duration-ms="609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc10 -->
+      </class> <!-- com.testingfiles.Postman10 -->
+      <class name="com.testingfiles.Postman7">
+        <test-method signature="tc7()[pri:0, instance:com.testingfiles.Postman7@14028087]" started-at="2025-02-26T10:46:36Z" name="tc7" finished-at="2025-02-26T10:46:37Z" duration-ms="519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc7 -->
+      </class> <!-- com.testingfiles.Postman7 -->
+      <class name="com.testingfiles.Postman6">
+        <test-method signature="tc6()[pri:0, instance:com.testingfiles.Postman6@5386659f]" started-at="2025-02-26T10:46:34Z" name="tc6" finished-at="2025-02-26T10:46:36Z" duration-ms="1651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc6 -->
+      </class> <!-- com.testingfiles.Postman6 -->
+      <class name="com.testingfiles.Postman1">
+        <test-method signature="tc1()[pri:0, instance:com.testingfiles.Postman1@57a78e3]" started-at="2025-02-26T10:46:29Z" name="tc1" finished-at="2025-02-26T10:46:32Z" duration-ms="2547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+      </class> <!-- com.testingfiles.Postman1 -->
+      <class name="com.testingfiles.Postman3">
+        <test-method signature="tc3()[pri:0, instance:com.testingfiles.Postman3@6fa51cd4]" started-at="2025-02-26T10:46:33Z" name="tc3" finished-at="2025-02-26T10:46:33Z" duration-ms="568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+      </class> <!-- com.testingfiles.Postman3 -->
+      <class name="com.testingfiles.Postman2">
+        <test-method signature="tc2()[pri:0, instance:com.testingfiles.Postman2@402c4085]" started-at="2025-02-26T10:46:32Z" name="tc2" finished-at="2025-02-26T10:46:33Z" duration-ms="778" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+      </class> <!-- com.testingfiles.Postman2 -->
+      <class name="com.testingfiles.Postman9">
+        <test-method signature="tc9()[pri:0, instance:com.testingfiles.Postman9@1caa0244]" started-at="2025-02-26T10:46:37Z" name="tc9" finished-at="2025-02-26T10:46:38Z" duration-ms="783" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc9 -->
+      </class> <!-- com.testingfiles.Postman9 -->
+      <class name="com.testingfiles.Postman8">
+        <test-method signature="tc8()[pri:0, instance:com.testingfiles.Postman8@cecf639]" started-at="2025-02-26T10:46:37Z" name="tc8" finished-at="2025-02-26T10:46:37Z" duration-ms="722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc8 -->
+      </class> <!-- com.testingfiles.Postman8 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
